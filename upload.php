@@ -1,6 +1,6 @@
 <?php
         $target = getcwd();
-	$target = $target."upload/";
+	$target = $target."/upload/";
 	$newFileName = substr(md5(microtime()),rand(0,26),5);
 	$newFileName = $newFileName . ".jpg";
 	$target = $target . basename( $newFileName) ; 
