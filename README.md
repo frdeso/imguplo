@@ -1,4 +1,8 @@
 imguplo
 =======
+Image Upload
 
-You need to install pycurl. (python-pycurl package on debian)
+Started this project to understand how website like imgur are working.
+
+
+Dependancies : pycurl. (python-pycurl package on debian)
