@@ -4,7 +4,7 @@
 import pycurl
 
 #php file path and image path
-url ='www.fdeslauriers.com/imguplo/web/upload.php';
+url ='**Path to php script ready waiting for a picture**';
 filename = '/home/frdeso/images/x4q8j.jpg'
 
 # Initialize pycurl
